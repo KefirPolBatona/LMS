@@ -1,0 +1,2125 @@
+[
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2024-11-11T19:54:15.323Z",
+        "user": 1,
+        "content_type": 3,
+        "object_id": "1",
+        "object_repr": "administrator",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2024-11-11T19:54:29.031Z",
+        "user": 1,
+        "content_type": 6,
+        "object_id": "1",
+        "object_repr": "9232485@gmail.com",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Groups\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2024-11-11T19:56:07.386Z",
+        "user": 1,
+        "content_type": 3,
+        "object_id": "2",
+        "object_repr": "teacher",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2024-11-11T19:58:02.014Z",
+        "user": 1,
+        "content_type": 3,
+        "object_id": "3",
+        "object_repr": "student",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2024-11-11T20:01:07.160Z",
+        "user": 1,
+        "content_type": 6,
+        "object_id": "2",
+        "object_repr": "9232485@mail.ru",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Groups\", \"Staff status\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2024-11-11T20:01:12.843Z",
+        "user": 1,
+        "content_type": 6,
+        "object_id": "3",
+        "object_repr": "zslugin@yandex.ru",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Groups\", \"Staff status\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2024-11-11T20:05:38.895Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "1-ый Курс. Вводный",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"\\u0423\\u0440\\u043e\\u043a\", \"object\": \"1-\\u044b\\u0439 \\u0423\\u0440\\u043e\\u043a. \\u0412\\u0432\\u0435\\u0434\\u0435\\u043d\\u0438\\u0435\"}}, {\"added\": {\"name\": \"\\u0423\\u0440\\u043e\\u043a\", \"object\": \"2-\\u043e\\u0439 \\u0423\\u0440\\u043e\\u043a. \\u041f\\u0440\\u043e\\u0434\\u043e\\u043b\\u0436\\u0435\\u043d\\u0438\\u0435\"}}, {\"added\": {\"name\": \"\\u0423\\u0440\\u043e\\u043a\", \"object\": \"3-\\u0439 \\u0423\\u0440\\u043e\\u043a. \\u0420\\u0430\\u0437\\u0432\\u0438\\u0442\\u0438\\u0435\"}}, {\"added\": {\"name\": \"\\u0423\\u0440\\u043e\\u043a\", \"object\": \"4-\\u044b\\u0439 \\u0443\\u0440\\u043e\\u043a. \\u041f\\u0440\\u0430\\u043a\\u0442\\u0438\\u043a\\u0430\"}}, {\"added\": {\"name\": \"\\u0423\\u0440\\u043e\\u043a\", \"object\": \"5-\\u0439 \\u0423\\u0440\\u043e\\u043a. \\u0421\\u0435\\u043c\\u0438\\u043d\\u0430\\u0440\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2024-11-11T20:10:41.842Z",
+        "user": 2,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "2-ой Курс. Специализация",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"\\u0423\\u0440\\u043e\\u043a\", \"object\": \"\\u0423\\u0440\\u043e\\u043a 0.1. \\u041e\\u0437\\u043d\\u0430\\u043a\\u043e\\u043c\\u043b\\u0435\\u043d\\u0438\\u0435\"}}, {\"added\": {\"name\": \"\\u0423\\u0440\\u043e\\u043a\", \"object\": \"\\u0423\\u0440\\u043e\\u043a 0.2. \\u0412\\u043d\\u0435\\u0434\\u0440\\u0435\\u043d\\u0438\\u0435\"}}, {\"added\": {\"name\": \"\\u0423\\u0440\\u043e\\u043a\", \"object\": \"\\u0423\\u0440\\u043e\\u043a 0.3. \\u0421\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u0438\\u0437\\u0438\\u0440\\u043e\\u0432\\u0430\\u043d\\u043d\\u0430\\u044f \\u043f\\u0440\\u0430\\u043a\\u0442\\u0438\\u043a\\u0430\"}}, {\"added\": {\"name\": \"\\u0423\\u0440\\u043e\\u043a\", \"object\": \"\\u0423\\u0440\\u043e\\u043a 0.4. \\u0418\\u0442\\u043e\\u0433\\u043e\\u0432\\u043e\\u0435\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2024-11-11T20:11:34.135Z",
+        "user": 2,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "2-ой Курс. Специализация",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"name\": \"\\u0423\\u0440\\u043e\\u043a\", \"object\": \"\\u0423\\u0440\\u043e\\u043a 0.4. \\u0418\\u0442\\u043e\\u0433\\u043e\\u0432\\u043e\\u0435\", \"fields\": [\"\\u0410\\u0432\\u0442\\u043e\\u0440\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2024-11-11T20:12:11.813Z",
+        "user": 2,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "2-ой Курс. Специализация",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"name\": \"\\u0423\\u0440\\u043e\\u043a\", \"object\": \"\\u0423\\u0440\\u043e\\u043a 0.3. \\u0421\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u0438\\u0437\\u0438\\u0440\\u043e\\u0432\\u0430\\u043d\\u043d\\u0430\\u044f \\u043f\\u0440\\u0430\\u043a\\u0442\\u0438\\u043a\\u0430\", \"fields\": [\"\\u0410\\u0432\\u0442\\u043e\\u0440\"]}}, {\"changed\": {\"name\": \"\\u0423\\u0440\\u043e\\u043a\", \"object\": \"\\u0423\\u0440\\u043e\\u043a 0.2. \\u0412\\u043d\\u0435\\u0434\\u0440\\u0435\\u043d\\u0438\\u0435\", \"fields\": [\"\\u0410\\u0432\\u0442\\u043e\\u0440\"]}}, {\"changed\": {\"name\": \"\\u0423\\u0440\\u043e\\u043a\", \"object\": \"\\u0423\\u0440\\u043e\\u043a 0.1. \\u041e\\u0437\\u043d\\u0430\\u043a\\u043e\\u043c\\u043b\\u0435\\u043d\\u0438\\u0435\", \"fields\": [\"\\u0410\\u0432\\u0442\\u043e\\u0440\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2024-11-11T20:12:44.599Z",
+        "user": 2,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "1-ый Курс. Вводный",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"name\": \"\\u0423\\u0440\\u043e\\u043a\", \"object\": \"5-\\u0439 \\u0423\\u0440\\u043e\\u043a. \\u0421\\u0435\\u043c\\u0438\\u043d\\u0430\\u0440\", \"fields\": [\"\\u0410\\u0432\\u0442\\u043e\\u0440\"]}}, {\"changed\": {\"name\": \"\\u0423\\u0440\\u043e\\u043a\", \"object\": \"4-\\u044b\\u0439 \\u0443\\u0440\\u043e\\u043a. \\u041f\\u0440\\u0430\\u043a\\u0442\\u0438\\u043a\\u0430\", \"fields\": [\"\\u0410\\u0432\\u0442\\u043e\\u0440\"]}}, {\"changed\": {\"name\": \"\\u0423\\u0440\\u043e\\u043a\", \"object\": \"3-\\u0439 \\u0423\\u0440\\u043e\\u043a. \\u0420\\u0430\\u0437\\u0432\\u0438\\u0442\\u0438\\u0435\", \"fields\": [\"\\u0410\\u0432\\u0442\\u043e\\u0440\"]}}, {\"changed\": {\"name\": \"\\u0423\\u0440\\u043e\\u043a\", \"object\": \"2-\\u043e\\u0439 \\u0423\\u0440\\u043e\\u043a. \\u041f\\u0440\\u043e\\u0434\\u043e\\u043b\\u0436\\u0435\\u043d\\u0438\\u0435\", \"fields\": [\"\\u0410\\u0432\\u0442\\u043e\\u0440\"]}}, {\"changed\": {\"name\": \"\\u0423\\u0440\\u043e\\u043a\", \"object\": \"1-\\u044b\\u0439 \\u0423\\u0440\\u043e\\u043a. \\u0412\\u0432\\u0435\\u0434\\u0435\\u043d\\u0438\\u0435\", \"fields\": [\"\\u0410\\u0432\\u0442\\u043e\\u0440\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2024-11-11T20:19:00.758Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "1",
+        "object_repr": "Тестовый вопрос (1): Какие умения необходимы для будущей работы?",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430\", \"object\": \"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430 (1) \\u0423\\u043c\\u0435\\u043d\\u0438\\u044f \\u043f\\u0438\\u0441\\u0430\\u0442\\u044c \\u043a\\u043e\\u0434 \\u044f\\u0432\\u043b\\u044f\\u0435\\u0442\\u0441\\u044f \\u0432\\u0435\\u0440\\u043d\\u044b\\u043c: True\"}}, {\"added\": {\"name\": \"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430\", \"object\": \"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430 (2) \\u0423\\u043c\\u0435\\u043d\\u0438\\u0435 \\u0432\\u044b\\u0431\\u0438\\u0440\\u0430\\u0442\\u044c \\u0430\\u0440\\u0431\\u0443\\u0437\\u044b \\u044f\\u0432\\u043b\\u044f\\u0435\\u0442\\u0441\\u044f \\u0432\\u0435\\u0440\\u043d\\u044b\\u043c: False\"}}, {\"added\": {\"name\": \"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430\", \"object\": \"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430 (3) \\u0423\\u043c\\u0435\\u043d\\u0438\\u0435 \\u043d\\u0430\\u0445\\u043e\\u0434\\u0438\\u0442\\u044c \\u0440\\u0435\\u0448\\u0435\\u043d\\u0438\\u0435 \\u0437\\u0430\\u0434\\u0430\\u0447\\u0438 \\u044f\\u0432\\u043b\\u044f\\u0435\\u0442\\u0441\\u044f \\u0432\\u0435\\u0440\\u043d\\u044b\\u043c: True\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2024-11-13T06:54:22.593Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "1",
+        "object_repr": "Ответ (Вариант ответа (3) Умение находить решение задачи является верным: True) верный: False",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2024-11-13T07:12:41.226Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "2",
+        "object_repr": "Ответ (Вариант ответа (2) Умение выбирать арбузы является верным: False) верный: False",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2024-11-13T08:27:54.292Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "3",
+        "object_repr": "Ответ (Вариант ответа (1) Умения писать код является верным: True) верный: False",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2024-11-13T08:28:10.784Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "3",
+        "object_repr": "Ответ (Вариант ответа (3) Умение находить решение задачи является верным: True) верный: False",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2024-11-13T08:29:59.295Z",
+        "user": 3,
+        "content_type": 10,
+        "object_id": "4",
+        "object_repr": "Ответ (Вариант ответа (2) Умение выбирать арбузы является верным: False) верный: False",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2024-11-13T08:38:19.063Z",
+        "user": 3,
+        "content_type": 10,
+        "object_id": "5",
+        "object_repr": "Ответ (Умения писать код) верный: False",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2024-11-13T09:00:48.923Z",
+        "user": 3,
+        "content_type": 10,
+        "object_id": "6",
+        "object_repr": "Ответ (Умения писать код) верный: False",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2024-11-13T09:03:42.799Z",
+        "user": 3,
+        "content_type": 10,
+        "object_id": "7",
+        "object_repr": "Ответ (Умения писать код) верный: False",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2024-11-13T09:04:34.226Z",
+        "user": 3,
+        "content_type": 10,
+        "object_id": "8",
+        "object_repr": "Ответ (Умения писать код) верный: False",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2024-11-13T09:26:10.098Z",
+        "user": 3,
+        "content_type": 10,
+        "object_id": "9",
+        "object_repr": "Ответ (Умения писать код) верный: False",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2024-11-13T09:27:17.881Z",
+        "user": 3,
+        "content_type": 10,
+        "object_id": "10",
+        "object_repr": "Ответ (Умения писать код) верный: True",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2024-11-13T09:36:10.932Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "11",
+        "object_repr": "Ответ (Умение находить решение задачи) верный: True",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2024-11-13T09:38:19.581Z",
+        "user": 3,
+        "content_type": 10,
+        "object_id": "None",
+        "object_repr": "Ответ (Умение выбирать арбузы) верный: False",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2024-11-13T09:39:28.757Z",
+        "user": 3,
+        "content_type": 10,
+        "object_id": "None",
+        "object_repr": "Ответ (Умение выбирать арбузы) верный: False",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2024-11-13T09:40:48.355Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "12",
+        "object_repr": "Ответ (Умение находить решение задачи) верный: True",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2024-11-13T09:40:58.952Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "None",
+        "object_repr": "Ответ (Умение выбирать арбузы) верный: False",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2024-11-13T09:42:33.898Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "13",
+        "object_repr": "Ответ (Умение выбирать арбузы) верный: False",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2024-11-13T10:22:43.448Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "14",
+        "object_repr": "Ответ (Умение находить решение задачи) верный: True",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2024-11-13T10:25:16.587Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "2",
+        "object_repr": "Тестовый вопрос (2): Выберите правильное название профессии",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430\", \"object\": \"\\u0410\\u0440\\u0431\\u0443\\u0437\\u043d\\u044b\\u0439 \\u043c\\u0430\\u0433\\u043d\\u0430\\u0442\"}}, {\"added\": {\"name\": \"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430\", \"object\": \"\\u0421\\u043b\\u0435\\u0441\\u0430\\u0440\\u044c\"}}, {\"added\": {\"name\": \"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430\", \"object\": \"\\u041f\\u0440\\u043e\\u0433\\u0440\\u0430\\u043c\\u043c\\u0438\\u0441\\u0442\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2024-11-13T10:38:00.946Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "3",
+        "object_repr": "Тестовый вопрос (3): Кто такой программист",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430\", \"object\": \"\\u0421\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u0438\\u0441\\u0442, \\u0443\\u043c\\u0435\\u044e\\u0449\\u0438\\u0439 \\u0447\\u0438\\u0442\\u0430\\u0442\\u044c\"}}, {\"added\": {\"name\": \"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430\", \"object\": \"\\u0421\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u0438\\u0441\\u0442, \\u0443\\u043c\\u0435\\u044e\\u0449\\u0438\\u0439 \\u043f\\u0438\\u0441\\u0430\\u0442\\u044c\"}}, {\"added\": {\"name\": \"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430\", \"object\": \"\\u0421\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u0438\\u0441\\u0442, \\u0443\\u043c\\u0435\\u044e\\u0449\\u0438\\u0439 \\u0447\\u0438\\u0442\\u0430\\u0442\\u044c \\u0438 \\u043f\\u0438\\u0441\\u0430\\u0442\\u044c \\u043f\\u0440\\u043e\\u0433\\u0440\\u0430\\u043c\\u043c\\u043d\\u044b\\u0439 \\u043a\\u043e\\u0434\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2024-11-13T10:46:06.014Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "15",
+        "object_repr": "Ответ (Специалист, умеющий читать и писать программный код) верный: True",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2024-11-13T10:46:39.526Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "16",
+        "object_repr": "Ответ (Специалист, умеющий писать) верный: False",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2024-11-13T10:50:06.156Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "10",
+        "object_repr": "Никто",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2024-11-13T10:50:18.927Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "10",
+        "object_repr": "Никто",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u0440\\u0438\\u0437\\u043d\\u0430\\u043a \\u043f\\u0440\\u0430\\u0432\\u0438\\u043b\\u044c\\u043d\\u043e\\u0433\\u043e \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2024-11-13T10:56:26.583Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "17",
+        "object_repr": "Ответ (Никто) верный: False",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+        "action_time": "2024-11-13T11:03:36.926Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "10",
+        "object_repr": "Урок 0.5. Дополнительный урок",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+        "action_time": "2024-11-13T11:14:54.179Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "3",
+        "object_repr": "3-й Курс. ООП",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"\\u0423\\u0440\\u043e\\u043a\", \"object\": \"\\u0423\\u0440\\u043e\\u043a 1. \\u041e\\u0437\\u043d\\u0430\\u043a\\u043e\\u043c\\u043b\\u0435\\u043d\\u0438\\u0435 \\u0441 \\u041e\\u041e\\u041f.\"}}, {\"added\": {\"name\": \"\\u0423\\u0440\\u043e\\u043a\", \"object\": \"\\u0423\\u0440\\u043e\\u043a 2. \\u041f\\u0440\\u0430\\u043a\\u0442\\u0438\\u043a\\u0430 \\u043f\\u0440\\u0438\\u043c\\u0435\\u043d\\u0435\\u043d\\u0438\\u044f \\u041e\\u041e\\u041f.\"}}, {\"added\": {\"name\": \"\\u0423\\u0440\\u043e\\u043a\", \"object\": \"\\u0423\\u0440\\u043e\\u043a 3. \\u041f\\u0440\\u043e\\u0432\\u0435\\u0440\\u043a\\u0430 \\u0437\\u043d\\u0430\\u043d\\u0438\\u0439 \\u043f\\u043e \\u041e\\u041e\\u041f.\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+        "action_time": "2024-11-13T11:21:27.912Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "4",
+        "object_repr": "4-й курс. Углубленное изучение ООП",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"\\u0423\\u0440\\u043e\\u043a\", \"object\": \"\\u0423\\u0440\\u043e\\u043a 4. \\u041e\\u041e\\u041f \\u0432 \\u043f\\u0440\\u043e\\u0433\\u0440\\u0430\\u043c\\u043c\\u0438\\u0440\\u043e\\u0432\\u0430\\u043d\\u0438\\u0438.\"}}, {\"added\": {\"name\": \"\\u0423\\u0440\\u043e\\u043a\", \"object\": \"\\u0423\\u0440\\u043e\\u043a 5. \\u041f\\u0440\\u0430\\u043a\\u0442\\u0438\\u043a\\u0430\"}}, {\"added\": {\"name\": \"\\u0423\\u0440\\u043e\\u043a\", \"object\": \"\\u0423\\u0440\\u043e\\u043a 6. \\u0421\\u0435\\u043c\\u0438\\u043d\\u0430\\u0440.\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+        "action_time": "2024-11-13T11:32:39.279Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "4",
+        "object_repr": "Тестовый вопрос (4): Как расшифровывается ООП?",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430\", \"object\": \"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u044b\\u0435 \\u043e\\u0431\\u044a\\u0435\\u043a\\u0442\\u044b \\u043f\\u0440\\u043e\\u0433\\u0440\\u0430\\u043c\\u043c\\u0438\\u0440\\u043e\\u0432\\u0430\\u043d\\u0438\\u044f\"}}, {\"added\": {\"name\": \"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430\", \"object\": \"\\u041e\\u0431\\u044a\\u0435\\u043a\\u0442\\u043d\\u043e-\\u043e\\u0440\\u0438\\u0435\\u043d\\u0442\\u0438\\u0440\\u043e\\u0432\\u0430\\u043d\\u043d\\u043e\\u0435 \\u043f\\u0440\\u043e\\u0433\\u0440\\u0430\\u043c\\u043c\\u0438\\u0440\\u043e\\u0432\\u0430\\u043d\\u0438\\u0435\"}}, {\"added\": {\"name\": \"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430\", \"object\": \"\\u041e\\u0431\\u044a\\u0435\\u043a\\u0442\\u044b \\u043e\\u0445\\u043e\\u0442\\u043d\\u043e \\u043f\\u0440\\u043e\\u0433\\u0440\\u0430\\u043c\\u043c\\u0438\\u0440\\u0443\\u044e\\u0442\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+        "action_time": "2024-11-13T11:43:21.763Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "5",
+        "object_repr": "Тестовый вопрос (5): ООП это?",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430\", \"object\": \"\\u041e\\u0440\\u0431\\u0443\\u0437\\u044b, \\u0435\\u0441\\u043b\\u0438 \\u043f\\u0438\\u0441\\u0430\\u0442\\u044c \\u0447\\u0435\\u0440\\u0435\\u0437 \\u043e\"}}, {\"added\": {\"name\": \"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430\", \"object\": \"\\u041e\\u0431\\u044a\\u0435\\u043a\\u0442\\u043d\\u043e-\\u043e\\u0440\\u0438\\u0435\\u043d\\u0442\\u0438\\u0440\\u043e\\u0432\\u0430\\u043d\\u043d\\u043e\\u0435 \\u043f\\u0440\\u043e\\u0433\\u0440\\u0430\\u043c\\u043c\\u0438\\u0440\\u043e\\u0432\\u0430\\u043d\\u0438\\u0435\"}}, {\"added\": {\"name\": \"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430\", \"object\": \"\\u041d\\u0435 \\u0430\\u0440\\u0431\\u0443\\u0437\\u044b \\u0442\\u043e\\u0447\\u043d\\u043e\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+        "action_time": "2024-11-13T11:57:19.568Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "6",
+        "object_repr": "Тестовый вопрос (6): ООП это?",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430\", \"object\": \"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u044b\\u0435 \\u043e\\u0431\\u044a\\u0435\\u043a\\u0442\\u044b \\u043f\\u0440\\u043e\\u0433\\u0440\\u0430\\u043c\\u043c\\u0438\\u0440\\u043e\\u0432\\u0430\\u043d\\u0438\\u044f\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+        "action_time": "2024-11-13T12:04:11.826Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "7",
+        "object_repr": "Тестовый вопрос (7): ООП это это это?",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430\", \"object\": \"\\u041e\\u0431\\u044a\\u0435\\u043a\\u0442\\u043d\\u043e-\\u043e\\u0440\\u0438\\u0435\\u043d\\u0442\\u0438\\u0440\\u043e\\u0432\\u0430\\u043d\\u043d\\u043e\\u0435 \\u043f\\u0440\\u043e\\u0433\\u0440\\u0430\\u043c\\u043c\\u0438\\u0440\\u043e\\u0432\\u0430\\u043d\\u0438\\u0435\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+        "action_time": "2024-11-13T12:06:19.989Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "8",
+        "object_repr": "Тестовый вопрос (8): ООП это этоэ это это ээто?",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430\", \"object\": \"\\u041e\\u0440\\u0431\\u0443\\u0437\\u044b, \\u0435\\u0441\\u043b\\u0438 \\u043f\\u0438\\u0441\\u0430\\u0442\\u044c \\u0447\\u0435\\u0440\\u0435\\u0437 \\u043e\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+        "action_time": "2024-11-13T13:03:26.859Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "9",
+        "object_repr": "Тестовый вопрос (9): ООП это это это это это это?",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430\", \"object\": \"\\u041e\\u0440\\u0431\\u0443\\u0437\\u044b, \\u0435\\u0441\\u043b\\u0438 \\u043f\\u0438\\u0441\\u0430\\u0442\\u044c \\u0447\\u0435\\u0440\\u0435\\u0437 \\u043e\"}}, {\"added\": {\"name\": \"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430\", \"object\": \"\\u041e\\u0431\\u044a\\u0435\\u043a\\u0442\\u043d\\u043e-\\u043e\\u0440\\u0438\\u0435\\u043d\\u0442\\u0438\\u0440\\u043e\\u0432\\u0430\\u043d\\u043d\\u043e\\u0435 \\u043f\\u0440\\u043e\\u0433\\u0440\\u0430\\u043c\\u043c\\u0438\\u0440\\u043e\\u0432\\u0430\\u043d\\u0438\\u0435\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+        "action_time": "2024-11-13T13:26:04.444Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "11",
+        "object_repr": "Тестовый вопрос (11): ООП это не то это не то это не то или то?",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430\", \"object\": \"\\u041e\\u0440\\u0431\\u0443\\u0437\\u044b, \\u0435\\u0441\\u043b\\u0438 \\u043f\\u0438\\u0441\\u0430\\u0442\\u044c \\u0447\\u0435\\u0440\\u0435\\u0437 \\u043e\"}}, {\"added\": {\"name\": \"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430\", \"object\": \"\\u041e\\u0431\\u044a\\u0435\\u043a\\u0442\\u043d\\u043e-\\u043e\\u0440\\u0438\\u0435\\u043d\\u0442\\u0438\\u0440\\u043e\\u0432\\u0430\\u043d\\u043d\\u043e\\u0435 \\u043f\\u0440\\u043e\\u0433\\u0440\\u0430\\u043c\\u043c\\u0438\\u0440\\u043e\\u0432\\u0430\\u043d\\u0438\\u0435\"}}, {\"added\": {\"name\": \"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430\", \"object\": \"\\u041d\\u0435 \\u0430\\u0440\\u0431\\u0443\\u0437\\u044b \\u0442\\u043e\\u0447\\u043d\\u043e\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+        "action_time": "2024-11-13T13:53:27.883Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "5",
+        "object_repr": "1234 курс",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+        "action_time": "2024-11-13T13:53:47.687Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "17",
+        "object_repr": "Урок 33333",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+        "action_time": "2024-11-13T13:54:16.866Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "5",
+        "object_repr": "1234 курс",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+        "action_time": "2024-11-13T13:55:23.286Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "16",
+        "object_repr": "Урок 6. Семинар.",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 52,
+    "fields": {
+        "action_time": "2024-11-13T13:55:23.290Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "15",
+        "object_repr": "Урок 5. Практика",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 53,
+    "fields": {
+        "action_time": "2024-11-13T13:55:23.292Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "14",
+        "object_repr": "Урок 4. ООП в программировании.",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 54,
+    "fields": {
+        "action_time": "2024-11-13T13:55:23.294Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "13",
+        "object_repr": "Урок 3. Проверка знаний по ООП.",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 55,
+    "fields": {
+        "action_time": "2024-11-13T13:55:23.296Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "12",
+        "object_repr": "Урок 2. Практика применения ООП.",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 56,
+    "fields": {
+        "action_time": "2024-11-13T13:55:23.298Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "11",
+        "object_repr": "Урок 1. Ознакомление с ООП.",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 57,
+    "fields": {
+        "action_time": "2024-11-13T14:00:45.286Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "14",
+        "object_repr": "Тестовый вопрос (14): Как долго нужно учитться?",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 58,
+    "fields": {
+        "action_time": "2024-11-13T14:01:00.287Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "25",
+        "object_repr": "Мало",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 59,
+    "fields": {
+        "action_time": "2024-11-13T14:01:16.128Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "26",
+        "object_repr": "немного",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 60,
+    "fields": {
+        "action_time": "2024-11-13T14:01:36.349Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "27",
+        "object_repr": "Всю жизнь",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 61,
+    "fields": {
+        "action_time": "2024-11-13T14:01:53.129Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "18",
+        "object_repr": "Ответ (Мало) верный: False",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 62,
+    "fields": {
+        "action_time": "2024-11-13T14:02:10.892Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "19",
+        "object_repr": "Ответ (Всю жизнь) верный: True",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 63,
+    "fields": {
+        "action_time": "2024-11-13T14:11:06.615Z",
+        "user": 2,
+        "content_type": 10,
+        "object_id": "20",
+        "object_repr": "Ответ (немного) верный: False",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 64,
+    "fields": {
+        "action_time": "2024-11-13T14:13:28.406Z",
+        "user": 2,
+        "content_type": 10,
+        "object_id": "20",
+        "object_repr": "Ответ (Всю жизнь) верный: True",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0412\\u044b\\u0431\\u0440\\u0430\\u043d\\u043d\\u044b\\u0439 \\u043e\\u0442\\u0432\\u0435\\u0442\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 65,
+    "fields": {
+        "action_time": "2024-11-13T14:14:33.781Z",
+        "user": 2,
+        "content_type": 9,
+        "object_id": "27",
+        "object_repr": "Всю жизнь!",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0412\\u0430\\u0440\\u0438\\u0430\\u043d\\u0442 \\u043e\\u0442\\u0432\\u0435\\u0442\\u0430\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 66,
+    "fields": {
+        "action_time": "2024-11-13T14:19:46.618Z",
+        "user": 2,
+        "content_type": 11,
+        "object_id": "15",
+        "object_repr": "Тестовый вопрос (15): Где искать решение задачи?",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 67,
+    "fields": {
+        "action_time": "2024-11-13T14:22:58.964Z",
+        "user": 2,
+        "content_type": 11,
+        "object_id": "14",
+        "object_repr": "Тестовый вопрос (14): Как долго нужно учиться?",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0435\\u0441\\u0442\\u043e\\u0432\\u044b\\u0439 \\u0432\\u043e\\u043f\\u0440\\u043e\\u0441\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 68,
+    "fields": {
+        "action_time": "2024-11-13T14:23:15.406Z",
+        "user": 2,
+        "content_type": 11,
+        "object_id": "14",
+        "object_repr": "Тестовый вопрос (14): Как долго нужно учиться?",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0435\\u0441\\u0442\\u043e\\u0432\\u044b\\u0439 \\u0432\\u043e\\u043f\\u0440\\u043e\\u0441\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 69,
+    "fields": {
+        "action_time": "2024-11-13T14:24:01.097Z",
+        "user": 2,
+        "content_type": 11,
+        "object_id": "14",
+        "object_repr": "Тестовый вопрос (14): Как долго нужно учиться?",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0435\\u0441\\u0442\\u043e\\u0432\\u044b\\u0439 \\u0432\\u043e\\u043f\\u0440\\u043e\\u0441\"]}}]"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+        "name": "Can add log entry",
+        "content_type": 1,
+        "codename": "add_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+        "name": "Can change log entry",
+        "content_type": 1,
+        "codename": "change_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+        "name": "Can delete log entry",
+        "content_type": 1,
+        "codename": "delete_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+        "name": "Can view log entry",
+        "content_type": 1,
+        "codename": "view_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+        "name": "Can add permission",
+        "content_type": 2,
+        "codename": "add_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+        "name": "Can change permission",
+        "content_type": 2,
+        "codename": "change_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+        "name": "Can delete permission",
+        "content_type": 2,
+        "codename": "delete_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+        "name": "Can view permission",
+        "content_type": 2,
+        "codename": "view_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+        "name": "Can add group",
+        "content_type": 3,
+        "codename": "add_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+        "name": "Can change group",
+        "content_type": 3,
+        "codename": "change_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+        "name": "Can delete group",
+        "content_type": 3,
+        "codename": "delete_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+        "name": "Can view group",
+        "content_type": 3,
+        "codename": "view_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+        "name": "Can add content type",
+        "content_type": 4,
+        "codename": "add_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+        "name": "Can change content type",
+        "content_type": 4,
+        "codename": "change_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+        "name": "Can delete content type",
+        "content_type": 4,
+        "codename": "delete_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+        "name": "Can view content type",
+        "content_type": 4,
+        "codename": "view_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+        "name": "Can add session",
+        "content_type": 5,
+        "codename": "add_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+        "name": "Can change session",
+        "content_type": 5,
+        "codename": "change_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+        "name": "Can delete session",
+        "content_type": 5,
+        "codename": "delete_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+        "name": "Can view session",
+        "content_type": 5,
+        "codename": "view_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+        "name": "Can add Пользователь",
+        "content_type": 6,
+        "codename": "add_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+        "name": "Can change Пользователь",
+        "content_type": 6,
+        "codename": "change_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+        "name": "Can delete Пользователь",
+        "content_type": 6,
+        "codename": "delete_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+        "name": "Can view Пользователь",
+        "content_type": 6,
+        "codename": "view_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+        "name": "Сan block user",
+        "content_type": 6,
+        "codename": "сan_block_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+        "name": "Can add Курс",
+        "content_type": 7,
+        "codename": "add_course"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+        "name": "Can change Курс",
+        "content_type": 7,
+        "codename": "change_course"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+        "name": "Can delete Курс",
+        "content_type": 7,
+        "codename": "delete_course"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+        "name": "Can view Курс",
+        "content_type": 7,
+        "codename": "view_course"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+        "name": "Can add Урок",
+        "content_type": 8,
+        "codename": "add_lesson"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+        "name": "Can change Урок",
+        "content_type": 8,
+        "codename": "change_lesson"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+        "name": "Can delete Урок",
+        "content_type": 8,
+        "codename": "delete_lesson"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+        "name": "Can view Урок",
+        "content_type": 8,
+        "codename": "view_lesson"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+        "name": "Can add Вариант ответа",
+        "content_type": 9,
+        "codename": "add_answer"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+        "name": "Can change Вариант ответа",
+        "content_type": 9,
+        "codename": "change_answer"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+        "name": "Can delete Вариант ответа",
+        "content_type": 9,
+        "codename": "delete_answer"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+        "name": "Can view Вариант ответа",
+        "content_type": 9,
+        "codename": "view_answer"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+        "name": "Can add Выбранный ответ",
+        "content_type": 10,
+        "codename": "add_choice"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+        "name": "Can change Выбранный ответ",
+        "content_type": 10,
+        "codename": "change_choice"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+        "name": "Can delete Выбранный ответ",
+        "content_type": 10,
+        "codename": "delete_choice"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+        "name": "Can view Выбранный ответ",
+        "content_type": 10,
+        "codename": "view_choice"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+        "name": "Can add Тестовое задание",
+        "content_type": 11,
+        "codename": "add_question"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+        "name": "Can change Тестовое задание",
+        "content_type": 11,
+        "codename": "change_question"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+        "name": "Can delete Тестовое задание",
+        "content_type": 11,
+        "codename": "delete_question"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 45,
+    "fields": {
+        "name": "Can view Тестовое задание",
+        "content_type": 11,
+        "codename": "view_question"
+    }
+},
+{
+    "model": "auth.group",
+    "pk": 1,
+    "fields": {
+        "name": "administrator",
+        "permissions": [
+            1,
+            2,
+            3,
+            4,
+            9,
+            10,
+            11,
+            12,
+            5,
+            6,
+            7,
+            8,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            13,
+            14,
+            15,
+            16,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    }
+},
+{
+    "model": "auth.group",
+    "pk": 2,
+    "fields": {
+        "name": "teacher",
+        "permissions": [
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            24
+        ]
+    }
+},
+{
+    "model": "auth.group",
+    "pk": 3,
+    "fields": {
+        "name": "student",
+        "permissions": [
+            37,
+            38,
+            41,
+            45,
+            29,
+            33
+        ]
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+        "app_label": "admin",
+        "model": "logentry"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+        "app_label": "auth",
+        "model": "permission"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+        "app_label": "auth",
+        "model": "group"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+        "app_label": "contenttypes",
+        "model": "contenttype"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+        "app_label": "sessions",
+        "model": "session"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+        "app_label": "users",
+        "model": "user"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+        "app_label": "materials",
+        "model": "course"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+        "app_label": "materials",
+        "model": "lesson"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+        "app_label": "checks",
+        "model": "answer"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+        "app_label": "checks",
+        "model": "choice"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 11,
+    "fields": {
+        "app_label": "checks",
+        "model": "question"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "hifvunf1a996ip8u10713nkktar32q8d",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2hAK0wFcuvcMhJlpbdVAUtqV8e7apAvd_vfef6mUt3VKWxuWNIs6q06dfjfK_BjKDuSey61qrmVdZtK7og_a9LXK8Lwc7t_BlNv0rTk6BmeISIw4QXQhWx88dpbRGwchWuMtWxoBOI7kEfqAMGJvpQen3h_Ivja7:1tBEIw:ayCywOGdowTsgiPV9MpLZB60Z4fL87ZZrcieSjQfS70",
+        "expire_date": "2024-11-27T14:25:10.013Z"
+    }
+},
+{
+    "model": "users.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$600000$Ezv1KBOU0LiDpjEXihwwRc$6KUMsWr44Ory1Ri+KuWbD/a7NiH4WgKdkxzv4mzTZrE=",
+        "is_superuser": true,
+        "first_name": "Admin",
+        "last_name": "Adminka",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2024-11-11T19:51:45Z",
+        "email": "9232485@gmail.com",
+        "phone": null,
+        "city": null,
+        "avatar": "",
+        "token": null,
+        "is_block": false,
+        "last_login": "2024-11-13T14:25:10.010Z",
+        "groups": [
+            1
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "users.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$600000$PL3S3NAVTM2jNxWhoqTN9i$niw1Oh4oV/GLUEIK/FkQdDS6A08c42fE5uiCZloEbNk=",
+        "is_superuser": false,
+        "first_name": "",
+        "last_name": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2024-11-11T19:59:07Z",
+        "email": "9232485@mail.ru",
+        "phone": null,
+        "city": null,
+        "avatar": "",
+        "token": null,
+        "is_block": false,
+        "last_login": "2024-11-13T14:05:44.587Z",
+        "groups": [
+            2
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "users.user",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$600000$ndxYs1b1GRYwSXfGLk52nx$lCgTZDCSuOKpDVYuNo4iJX3ubm6E7q8KPAQIuZav0xM=",
+        "is_superuser": false,
+        "first_name": "",
+        "last_name": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2024-11-11T19:59:33Z",
+        "email": "zslugin@yandex.ru",
+        "phone": null,
+        "city": null,
+        "avatar": "",
+        "token": null,
+        "is_block": false,
+        "last_login": "2024-11-13T09:36:18.263Z",
+        "groups": [
+            3
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "materials.course",
+    "pk": 1,
+    "fields": {
+        "title_course": "1-ый Курс. Вводный",
+        "description_course": "Основные понятия и свойства",
+        "image_course": "",
+        "updated_at": "2024-11-11T20:12:44.592Z",
+        "owner": 1
+    }
+},
+{
+    "model": "materials.course",
+    "pk": 2,
+    "fields": {
+        "title_course": "2-ой Курс. Специализация",
+        "description_course": "Приобретение узкоспециализированных знаний, умений, навыков.",
+        "image_course": "",
+        "updated_at": "2024-11-11T20:12:11.808Z",
+        "owner": 2
+    }
+},
+{
+    "model": "materials.course",
+    "pk": 3,
+    "fields": {
+        "title_course": "3-й Курс. ООП",
+        "description_course": "Ознакомление с базовыми знаниями ООП.\r\nПрактика применения ООП.\r\nПроверка знаний по ООП.",
+        "image_course": "",
+        "updated_at": "2024-11-13T11:14:54.174Z",
+        "owner": 1
+    }
+},
+{
+    "model": "materials.course",
+    "pk": 4,
+    "fields": {
+        "title_course": "4-й курс. Углубленное изучение ООП",
+        "description_course": "Знания ООП в разных сферах программирования.\r\nПрактика применения ООП.\r\nПроверка знаний по ООП.",
+        "image_course": "",
+        "updated_at": "2024-11-13T11:21:27.908Z",
+        "owner": 1
+    }
+},
+{
+    "model": "materials.lesson",
+    "pk": 1,
+    "fields": {
+        "title_lesson": "1-ый Урок. Введение",
+        "description_lesson": "Основные направления",
+        "image_lesson": "",
+        "link_video": null,
+        "updated_at": "2024-11-11T20:12:44.598Z",
+        "course": 1,
+        "owner": 1
+    }
+},
+{
+    "model": "materials.lesson",
+    "pk": 2,
+    "fields": {
+        "title_lesson": "2-ой Урок. Продолжение",
+        "description_lesson": "Добавление знаний",
+        "image_lesson": "",
+        "link_video": null,
+        "updated_at": "2024-11-11T20:12:44.597Z",
+        "course": 1,
+        "owner": 1
+    }
+},
+{
+    "model": "materials.lesson",
+    "pk": 3,
+    "fields": {
+        "title_lesson": "3-й Урок. Развитие",
+        "description_lesson": "Обновление знаний",
+        "image_lesson": "",
+        "link_video": null,
+        "updated_at": "2024-11-11T20:12:44.595Z",
+        "course": 1,
+        "owner": 1
+    }
+},
+{
+    "model": "materials.lesson",
+    "pk": 4,
+    "fields": {
+        "title_lesson": "4-ый урок. Практика",
+        "description_lesson": "Получение опыта, навыков, их применение.",
+        "image_lesson": "",
+        "link_video": null,
+        "updated_at": "2024-11-11T20:12:44.594Z",
+        "course": 1,
+        "owner": 1
+    }
+},
+{
+    "model": "materials.lesson",
+    "pk": 5,
+    "fields": {
+        "title_lesson": "5-й Урок. Семинар",
+        "description_lesson": "Проверка знаний",
+        "image_lesson": "",
+        "link_video": null,
+        "updated_at": "2024-11-11T20:12:44.593Z",
+        "course": 1,
+        "owner": 1
+    }
+},
+{
+    "model": "materials.lesson",
+    "pk": 6,
+    "fields": {
+        "title_lesson": "Урок 0.1. Ознакомление",
+        "description_lesson": "Изучение материала. Приобретение узкопрофильных знаний",
+        "image_lesson": "",
+        "link_video": null,
+        "updated_at": "2024-11-11T20:12:11.812Z",
+        "course": 2,
+        "owner": 2
+    }
+},
+{
+    "model": "materials.lesson",
+    "pk": 7,
+    "fields": {
+        "title_lesson": "Урок 0.2. Внедрение",
+        "description_lesson": "Приобретение навыков, умений.",
+        "image_lesson": "",
+        "link_video": null,
+        "updated_at": "2024-11-11T20:12:11.811Z",
+        "course": 2,
+        "owner": 2
+    }
+},
+{
+    "model": "materials.lesson",
+    "pk": 8,
+    "fields": {
+        "title_lesson": "Урок 0.3. Специализированная практика",
+        "description_lesson": "Совершенствование навыков, умений.",
+        "image_lesson": "",
+        "link_video": null,
+        "updated_at": "2024-11-11T20:12:11.810Z",
+        "course": 2,
+        "owner": 2
+    }
+},
+{
+    "model": "materials.lesson",
+    "pk": 9,
+    "fields": {
+        "title_lesson": "Урок 0.4. Итоговое",
+        "description_lesson": "Закрепление материала.",
+        "image_lesson": "",
+        "link_video": null,
+        "updated_at": "2024-11-11T20:11:34.133Z",
+        "course": 2,
+        "owner": 2
+    }
+},
+{
+    "model": "materials.lesson",
+    "pk": 10,
+    "fields": {
+        "title_lesson": "Урок 0.5. Дополнительный урок",
+        "description_lesson": "Повторение материала для его закрепление. Ответы на вопросы. Решение проблем",
+        "image_lesson": "",
+        "link_video": null,
+        "updated_at": "2024-11-13T11:03:36.925Z",
+        "course": 2,
+        "owner": 1
+    }
+},
+{
+    "model": "checks.question",
+    "pk": 1,
+    "fields": {
+        "question": "Какие умения необходимы для будущей работы?",
+        "owner": 1,
+        "lesson": 5,
+        "course": null
+    }
+},
+{
+    "model": "checks.question",
+    "pk": 2,
+    "fields": {
+        "question": "Выберите правильное название профессии",
+        "owner": 1,
+        "lesson": 6,
+        "course": "2-ой Курс. Специализация"
+    }
+},
+{
+    "model": "checks.question",
+    "pk": 3,
+    "fields": {
+        "question": "Кто такой программист",
+        "owner": 1,
+        "lesson": 6,
+        "course": "2-ой Курс. Специализация"
+    }
+},
+{
+    "model": "checks.question",
+    "pk": 14,
+    "fields": {
+        "question": "Как долго нужно учиться?",
+        "owner": 1,
+        "lesson": 9,
+        "course": "2-ой Курс. Специализация"
+    }
+},
+{
+    "model": "checks.question",
+    "pk": 15,
+    "fields": {
+        "question": "Где искать решение задачи?",
+        "owner": 2,
+        "lesson": 7,
+        "course": "2-ой Курс. Специализация"
+    }
+},
+{
+    "model": "checks.answer",
+    "pk": 1,
+    "fields": {
+        "answer": "Умения писать код",
+        "right_answer": true,
+        "owner": 1,
+        "question": 1
+    }
+},
+{
+    "model": "checks.answer",
+    "pk": 2,
+    "fields": {
+        "answer": "Умение выбирать арбузы",
+        "right_answer": false,
+        "owner": 1,
+        "question": 1
+    }
+},
+{
+    "model": "checks.answer",
+    "pk": 3,
+    "fields": {
+        "answer": "Умение находить решение задачи",
+        "right_answer": true,
+        "owner": 1,
+        "question": 1
+    }
+},
+{
+    "model": "checks.answer",
+    "pk": 4,
+    "fields": {
+        "answer": "Арбузный магнат",
+        "right_answer": false,
+        "owner": 1,
+        "question": 2
+    }
+},
+{
+    "model": "checks.answer",
+    "pk": 5,
+    "fields": {
+        "answer": "Слесарь",
+        "right_answer": false,
+        "owner": 1,
+        "question": 2
+    }
+},
+{
+    "model": "checks.answer",
+    "pk": 6,
+    "fields": {
+        "answer": "Программист",
+        "right_answer": true,
+        "owner": 1,
+        "question": 2
+    }
+},
+{
+    "model": "checks.answer",
+    "pk": 7,
+    "fields": {
+        "answer": "Специалист, умеющий читать",
+        "right_answer": false,
+        "owner": 1,
+        "question": 3
+    }
+},
+{
+    "model": "checks.answer",
+    "pk": 8,
+    "fields": {
+        "answer": "Специалист, умеющий писать",
+        "right_answer": false,
+        "owner": 1,
+        "question": 3
+    }
+},
+{
+    "model": "checks.answer",
+    "pk": 9,
+    "fields": {
+        "answer": "Специалист, умеющий читать и писать программный код",
+        "right_answer": true,
+        "owner": 1,
+        "question": 3
+    }
+},
+{
+    "model": "checks.answer",
+    "pk": 10,
+    "fields": {
+        "answer": "Никто",
+        "right_answer": false,
+        "owner": 1,
+        "question": 3
+    }
+},
+{
+    "model": "checks.answer",
+    "pk": 25,
+    "fields": {
+        "answer": "Мало",
+        "right_answer": false,
+        "owner": 1,
+        "question": 14
+    }
+},
+{
+    "model": "checks.answer",
+    "pk": 26,
+    "fields": {
+        "answer": "немного",
+        "right_answer": false,
+        "owner": 1,
+        "question": 14
+    }
+},
+{
+    "model": "checks.answer",
+    "pk": 27,
+    "fields": {
+        "answer": "Всю жизнь!",
+        "right_answer": true,
+        "owner": 1,
+        "question": 14
+    }
+},
+{
+    "model": "checks.choice",
+    "pk": 1,
+    "fields": {
+        "right_answer": false,
+        "student": 3,
+        "question": 1,
+        "answer": 3
+    }
+},
+{
+    "model": "checks.choice",
+    "pk": 2,
+    "fields": {
+        "right_answer": false,
+        "student": 3,
+        "question": 1,
+        "answer": 2
+    }
+},
+{
+    "model": "checks.choice",
+    "pk": 3,
+    "fields": {
+        "right_answer": false,
+        "student": 3,
+        "question": 1,
+        "answer": 3
+    }
+},
+{
+    "model": "checks.choice",
+    "pk": 4,
+    "fields": {
+        "right_answer": false,
+        "student": 3,
+        "question": 1,
+        "answer": 2
+    }
+},
+{
+    "model": "checks.choice",
+    "pk": 5,
+    "fields": {
+        "right_answer": false,
+        "student": 3,
+        "question": 1,
+        "answer": 1
+    }
+},
+{
+    "model": "checks.choice",
+    "pk": 6,
+    "fields": {
+        "right_answer": false,
+        "student": 3,
+        "question": 1,
+        "answer": 1
+    }
+},
+{
+    "model": "checks.choice",
+    "pk": 7,
+    "fields": {
+        "right_answer": false,
+        "student": 3,
+        "question": 1,
+        "answer": 1
+    }
+},
+{
+    "model": "checks.choice",
+    "pk": 8,
+    "fields": {
+        "right_answer": false,
+        "student": 3,
+        "question": 1,
+        "answer": 1
+    }
+},
+{
+    "model": "checks.choice",
+    "pk": 9,
+    "fields": {
+        "right_answer": false,
+        "student": 3,
+        "question": 1,
+        "answer": 1
+    }
+},
+{
+    "model": "checks.choice",
+    "pk": 10,
+    "fields": {
+        "right_answer": true,
+        "student": 3,
+        "question": 1,
+        "answer": 1
+    }
+},
+{
+    "model": "checks.choice",
+    "pk": 11,
+    "fields": {
+        "right_answer": true,
+        "student": 2,
+        "question": 1,
+        "answer": 3
+    }
+},
+{
+    "model": "checks.choice",
+    "pk": 12,
+    "fields": {
+        "right_answer": true,
+        "student": 1,
+        "question": 1,
+        "answer": 3
+    }
+},
+{
+    "model": "checks.choice",
+    "pk": 13,
+    "fields": {
+        "right_answer": false,
+        "student": 1,
+        "question": 1,
+        "answer": 2
+    }
+},
+{
+    "model": "checks.choice",
+    "pk": 14,
+    "fields": {
+        "right_answer": true,
+        "student": 1,
+        "question": 1,
+        "answer": 3
+    }
+},
+{
+    "model": "checks.choice",
+    "pk": 15,
+    "fields": {
+        "right_answer": true,
+        "student": 1,
+        "question": 3,
+        "answer": 9
+    }
+},
+{
+    "model": "checks.choice",
+    "pk": 16,
+    "fields": {
+        "right_answer": false,
+        "student": 3,
+        "question": 3,
+        "answer": 8
+    }
+},
+{
+    "model": "checks.choice",
+    "pk": 17,
+    "fields": {
+        "right_answer": false,
+        "student": 1,
+        "question": 3,
+        "answer": 10
+    }
+},
+{
+    "model": "checks.choice",
+    "pk": 18,
+    "fields": {
+        "right_answer": false,
+        "student": 1,
+        "question": 14,
+        "answer": 25
+    }
+},
+{
+    "model": "checks.choice",
+    "pk": 19,
+    "fields": {
+        "right_answer": true,
+        "student": 1,
+        "question": 14,
+        "answer": 27
+    }
+},
+{
+    "model": "checks.choice",
+    "pk": 20,
+    "fields": {
+        "right_answer": true,
+        "student": 2,
+        "question": 14,
+        "answer": 27
+    }
+}
+]
