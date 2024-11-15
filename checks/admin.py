@@ -1,6 +1,7 @@
 import nested_admin
 from django.contrib import admin
 
+from checks.forms import ChoiceForm
 from checks.models import Answer, Question, Choice
 
 
@@ -26,6 +27,8 @@ class QuestionAdmin(nested_admin.NestedModelAdmin):
 
 class ChoiceAdmin(nested_admin.NestedModelAdmin):
     model = Choice
+    form = ChoiceForm
+    list_filter = ['question']
     fields = ('question', 'answer',)
     list_display = ('pk', 'student', 'question', 'answer', 'right_answer',)
 

@@ -1,6 +1,7 @@
 from rest_framework import viewsets, generics
 from rest_framework.permissions import IsAuthenticated
 
+from checks.forms import ChoiceForm
 from checks.models import Question, Answer, Choice
 from materials.permissons import IsAdministrator, IsOwner, IsTeacher
 from checks.serializers import QuestionSerializer, AnswerSerializer, ChoiceSerializer
@@ -73,13 +74,14 @@ class ChoiceCreateAPIView(generics.CreateAPIView):
 
     serializer_class = ChoiceSerializer
     permission_classes = [IsAuthenticated]
+    form_class = ChoiceForm
 
     def perform_create(self, serializer):
         """
         Привязывает студента к выбранному ответу.
         """
 
-        serializer.save(owner=self.request.user)
+        serializer.save(student=self.request.user)
 
 
 class ChoiceListAPIView(generics.ListAPIView):
